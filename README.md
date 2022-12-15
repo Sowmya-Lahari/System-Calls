@@ -1,5 +1,5 @@
 # System-Calls
-Steps to add a system call
+Setup
 - Download the kernel with required version.
 - Extract the content of the downloaded tar file to the directory /usr/src.
 - Go to the /usr/src/<kernel_version> directory.
